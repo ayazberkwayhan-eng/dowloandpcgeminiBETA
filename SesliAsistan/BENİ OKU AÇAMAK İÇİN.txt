@@ -1,0 +1,27 @@
+beni dinle sana kurtayım
+
+1) bunu indir https://www.google.com/search?q=https://www.python.org/ftp/python/3.12.8/python-3.12.8-amd64.exe bunu indirirken PATHC öyle bişi var onu aç
+
+2) cmde yi aç komut sistemi aç şunu yapıştır pip install pyautogui google-generativeai pygame gTTS SpeechRecognition AppOpener PyAudio
+
+)= çalıştırmadan önce ayarlar şeyini açın ve oraya google ai stoiddeye girip apı key nizi alıp apı key yerine yapıştırın
+
+3) DOSYAYI ÇALIŞTIR asistan yazanı şeyin içindeki yapay zeka ya çalıştır işte
+
+
+NOT: mikrofon çok önemli
+
+-------------------------------------------
+             İNG
+
+Listen to me, I'll help you:
+
+1) Download this: https://www.google.com/search?q=https://www.python.org/ftp/python/3.12.8/python-3.12.8-amd64.exe While downloading, open the PATHC (something like that).
+
+2) Open the command prompt (CMD), paste this: `pip install pyautogui google-generativeai pygame gTTS SpeechRecognition AppOpener PyAudio`
+
+Before running it, open the settings and go to google-ai storage, get your API key, and paste it into the API key field.
+
+3) Run the file. Use the AI ​​inside the assistant.
+
+NOTE: The microphone is very important.

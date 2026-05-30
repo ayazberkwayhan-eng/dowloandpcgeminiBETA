@@ -1,9 +1,0 @@
-beni dinle sana kurtayım
-
-1) bunu indir https://www.google.com/search?q=https://www.python.org/ftp/python/3.12.8/python-3.12.8-amd64.exe bunu indirirken PATHC öyle bişi var onu aç
-
-2) cmde yi aç komut sistemi aç şunu yapıştır pip install pyautogui google-generativeai pygame gTTS SpeechRecognition AppOpener PyAudio
-
-3) DOSYAYI ÇALIŞTIR asistan yazanı şeyin içindeki yapay zeka ya çalıştır işte
-
-NOT: çalışmassa ara ve mikrofon çok önemli
